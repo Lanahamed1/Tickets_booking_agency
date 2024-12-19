@@ -1,4 +1,4 @@
-# flutter_tickets_booking_agency
+# tickets_booking_agency
 
 A new Flutter project.
 
