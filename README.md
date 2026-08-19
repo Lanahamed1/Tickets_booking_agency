@@ -44,7 +44,7 @@ The application uses Flutter for cross-platform development, GetX for reactive s
 
 The application uses GetX for state management and dependency handling.
 
-```text
+
 UI
  │
  ▼
