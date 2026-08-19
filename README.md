@@ -59,6 +59,8 @@ REST API
  ▼
 Backend
 
+
+
 ##🛠️ Technologies
 
 | Technology | Purpose                           |
@@ -69,7 +71,8 @@ Backend
 | REST APIs  | Backend Communication             |
 
 
-##📱 Main Screens
+
+📱 Main Screens
 
 The application includes screens such as:
 
@@ -80,10 +83,15 @@ Booking
 Reservation
 Booking Confirmation
 
-##📦 Installation
+
+
+
+📦 Installation
 git clone https://github.com/Lanahamed1/Tickets_booking_agency.git
 
-##🎯 Project Goals
+
+
+🎯 Project Goals
 
 The main objectives of this project are:
 
@@ -94,12 +102,16 @@ Integrate mobile applications with REST APIs.
 Demonstrate Flutter application development using GetX.
 
 
-##📌 Project Status
+
+
+📌 Project Status
 
 A cross-platform Flutter booking application developed with a focus on usability, structured state management, and REST API integration.
 
 
-##👨‍💻 Author
+
+
+👨‍💻 Author
 
 Lanahamed
 
